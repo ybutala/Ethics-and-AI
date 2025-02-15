@@ -1,6 +1,6 @@
 # Ethics-and-AI
 
-# Paper 1: Towards Ethical AI Deployment: Contractarian Principles for Firm Responsibility in Healthcare
+## Paper 1: Towards Ethical AI Deployment: Contractarian Principles for Firm Responsibility in Healthcare
 The rapid adoption of AI-driven decision-making in healthcare has underscored the pressing need for clear accountability frameworks to ensure ethical deployment. Optum's controversial stance, which shifts responsibility for its AI models solely onto users, highlights the ethical challenges of allocating responsibility in high-stakes environments. This paper argues that firms must embrace a comprehensive ethical obligation to ensure the fairness, accuracy, and reliability of their AI models, grounded in Contractarian principles that emphasize mutually beneficial agreements and transparency. By adhering to such frameworks, technology companies can foster trust, protect vulnerable populations, and prioritize patient welfare, thereby upholding their moral and societal responsibilities in advancing AI technologies for critical healthcare applications.
 
 ## Paper 2: Ethical Considerations in AI Development: Balancing Autonomy and Societal Benefits
